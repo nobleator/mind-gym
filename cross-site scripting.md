@@ -2,7 +2,7 @@
 
 ## Level 1
 Insert
-'<script>alert();</script>'
+`<script>alert();</script>`
 inside the input text box given.
 
 ## Level 2
