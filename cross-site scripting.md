@@ -27,7 +27,7 @@ in the URL bar after
 `next=`
 in place of
 `confirm`,
-then click "Next".
+then click "Go", then click "Next".
 
 ## Level 6
 
