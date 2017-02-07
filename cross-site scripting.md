@@ -11,6 +11,9 @@ Insert
 inside the input text box.
 
 ## Level 3
+Insert
+`'onerror="alert();"`
+into the URL bar after the #.
 
 ## Level 4
 
