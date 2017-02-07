@@ -26,7 +26,8 @@ Click "Sign up", then insert
 in the URL bar after
 `next=`
 in place of
-`confirm`
+`confirm`,
+then click "Next".
 
 ## Level 6
 
