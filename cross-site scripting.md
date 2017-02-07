@@ -21,6 +21,12 @@ Insert
 inside the input text box.
 
 ## Level 5
+Click "Sign up", then insert
+`javascript:alert();`
+in the URL bar after
+`next=`
+in place of
+`confirm`
 
 ## Level 6
 
