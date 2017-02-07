@@ -16,6 +16,9 @@ Insert
 into the URL bar after the #.
 
 ## Level 4
+Insert
+`1}}'); alert();('{{`
+inside the input text box.
 
 ## Level 5
 
