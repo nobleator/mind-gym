@@ -1,10 +1,10 @@
 # http://www.pythonchallenge.com/
 
-## Level 1
+## Level 0
 Replace `0.html` in the URL bar with `274877906944.html` (the value of 2^38).
 
-## Level 2
-`def level2(text):
+## Level 1
+`def level1(text):
   result = ""
   ctr = 0
   while ctr < len(text):
